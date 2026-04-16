@@ -1,0 +1,10 @@
+data/Zoned_Development_Capacity_Layers_2016-shp/3568c7ec-ce1a-470f-a78e-3efd5886dc192020329-1-x3g6mb.i43zm.dbf
+data/commercial_core_march_2025_raw.csv
+data/first_hill_march_2025_raw.csv
+data/belltown_march_2025_raw.csv
+data/Building_Outlines_2023_-7575316039447773230/Building_Outlines_2023.shp
+data/Building_Outlines_2023_-7575316039447773230/Building_Outlines_2023.dbf
+data/pioneer_square_march_2025_raw.csv
+.DS_Store
+.ipynb_checkpoints/
+*.zip
