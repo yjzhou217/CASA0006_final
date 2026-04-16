@@ -1,0 +1,20 @@
+class_code,combo_label,n_streets
+A,weekday_day: Under-saturated | weekday_night: Under-saturated | weekend_day: Under-saturated | weekend_night: Under-saturated,272
+B,weekday_day: Under-saturated | weekday_night: nan | weekend_day: Under-saturated | weekend_night: nan,46
+C,weekday_day: Under-saturated | weekday_night: Under-saturated | weekend_day: Under-saturated | weekend_night: Optimal,20
+D,weekday_day: Under-saturated | weekday_night: Under-saturated | weekend_day: Optimal | weekend_night: Optimal,8
+E,weekday_day: Under-saturated | weekday_night: Optimal | weekend_day: Under-saturated | weekend_night: Optimal,6
+F,weekday_day: Under-saturated | weekday_night: Under-saturated | weekend_day: Under-saturated | weekend_night: Over-saturated,4
+G,weekday_day: Optimal | weekday_night: nan | weekend_day: Under-saturated | weekend_night: nan,4
+H,weekday_day: Under-saturated | weekday_night: Under-saturated | weekend_day: Optimal | weekend_night: Under-saturated,3
+I,weekday_day: Optimal | weekday_night: nan | weekend_day: Optimal | weekend_night: nan,2
+J,weekday_day: Under-saturated | weekday_night: Optimal | weekend_day: Under-saturated | weekend_night: Under-saturated,2
+K,weekday_day: Optimal | weekday_night: Over-saturated | weekend_day: Over-saturated | weekend_night: Over-saturated,1
+L,weekday_day: Under-saturated | weekday_night: Optimal | weekend_day: Under-saturated | weekend_night: Over-saturated,1
+M,weekday_day: Under-saturated | weekday_night: Under-saturated | weekend_day: Optimal | weekend_night: Over-saturated,1
+N,weekday_day: Over-saturated | weekday_night: Over-saturated | weekend_day: Over-saturated | weekend_night: Over-saturated,1
+O,weekday_day: Under-saturated | weekday_night: Under-saturated | weekend_day: Over-saturated | weekend_night: Over-saturated,1
+P,weekday_day: Optimal | weekday_night: Under-saturated | weekend_day: Optimal | weekend_night: Over-saturated,1
+Q,weekday_day: Optimal | weekday_night: Over-saturated | weekend_day: Under-saturated | weekend_night: Under-saturated,1
+R,weekday_day: Under-saturated | weekday_night: Under-saturated | weekend_day: nan | weekend_night: nan,1
+S,weekday_day: Optimal | weekday_night: Optimal | weekend_day: Optimal | weekend_night: Optimal,1
