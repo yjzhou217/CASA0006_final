@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+	<Esri>
+		<CreaDate>20260226</CreaDate>
+		<CreaTime>08371900</CreaTime>
+		<ArcGISFormat>1.0</ArcGISFormat>
+		<SyncOnce>FALSE</SyncOnce>
+		<ModDate>20250107</ModDate>
+		<ModTime>10351300</ModTime>
+		<scaleRange>
+			<minScale>150000000</minScale>
+			<maxScale>5000</maxScale>
+		</scaleRange>
+		<ArcGISProfile>ItemDescription</ArcGISProfile>
+		<MapLyrSync>TRUE</MapLyrSync>
+		<DataProperties>
+			<itemProps>
+				<itemName Sync="TRUE">BuildingOutlines2023.lyr</itemName>
+				<imsContentType Sync="TRUE">005</imsContentType>
+			</itemProps>
+		</DataProperties>
+		<SyncDate>20250107</SyncDate>
+		<SyncTime>10351300</SyncTime>
+	</Esri>
+	<dataIdInfo>
+		<idCitation>
+			<resTitle>Building Outlines - 2023</resTitle>
+			<presForm>
+				<PresFormCd value="005" Sync="TRUE">
+				</PresFormCd>
+			</presForm>
+		</idCitation>
+		<idAbs>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;Hand Drawn Building Outlines derived from King County 2023 ortho imagery by Eagleview Corp.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;</idAbs>
+		<idPurp>Building Outlines 2023</idPurp>
+		<idCredit>Enterprise GIS Data Team</idCredit>
+		<searchKeys>
+			<keyword>Buildings</keyword>
+			<keyword>2023</keyword>
+		</searchKeys>
+		<envirDesc Sync="TRUE"> Version 6.2 (Build 9200) ; Esri ArcGIS 10.9.1.28388</envirDesc>
+		<dataLang>
+			<languageCode value="eng" Sync="TRUE">
+			</languageCode>
+			<countryCode value="USA" Sync="TRUE">
+			</countryCode>
+		</dataLang>
+	</dataIdInfo>
+	<mdHrLv>
+		<ScopeCd value="005">
+		</ScopeCd>
+	</mdHrLv>
+	<mdLang>
+		<languageCode value="eng" Sync="TRUE">
+		</languageCode>
+		<countryCode value="USA" Sync="TRUE">
+		</countryCode>
+	</mdLang>
+	<distInfo>
+		<distFormat>
+			<formatName Sync="TRUE">Layer</formatName>
+		</distFormat>
+	</distInfo>
+	<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+	<mdDateSt Sync="TRUE">20250107</mdDateSt>
+</metadata>
